@@ -1,22 +1,42 @@
-!States
-us-midwest.privateinternetaccess.com
-us-east.privateinternetaccess.com
-us-texas.privateinternetaccess.com
-us-west.privateinternetaccess.com
+!United States (US VPN)
 us-california.privateinternetaccess.com
-us-seattle.privateinternetaccess.com
+us-east.privateinternetaccess.com
+us-midwest.privateinternetaccess.com
+us-texas.privateinternetaccess.com
 us-florida.privateinternetaccess.com
-!Canada
-ca.privateinternetaccess.com
-ca-toronto.privateinternetaccess.com
-!Europe
+us-seattle.privateinternetaccess.com
+us-west.privateinternetaccess.com
+us-siliconvalley.privateinternetaccess.com
+!United Kingdom (GB VPN)
 uk-london.privateinternetaccess.com
 uk-southampton.privateinternetaccess.com
-swiss.privateinternetaccess.com
+!Canada (CA VPN)
+ca-toronto.privateinternetaccess.com
+ca.privateinternetaccess.com
+!Australia (AU VPN)
+aus.privateinternetaccess.com
+aus-melbourne.privateinternetaccess.com
+!Netherlands (NL VPN)
 nl.privateinternetaccess.com
+!Switzerland (CH VPN)
+swiss.privateinternetaccess.com
+!Sweden (SE VPN)
 sweden.privateinternetaccess.com
+!France (FR VPN)
 france.privateinternetaccess.com
+!Germany (DE VPN)
 germany.privateinternetaccess.com
-romania.privateinternetaccess.com
-!Hong Kong
+!Russia (RU VPN)
+russia.privateinternetaccess.com
+!Romania (RO VPN)
+ro.privateinternetaccess.com
+!Hong Kong (HK VPN)
 hk.privateinternetaccess.com
+!Singapore (SG VPN)
+sg.privateinternetaccess.com
+!Japan (JP VPN)
+japan.privateinternetaccess.com
+!Israel (IL VPN)
+israel.privateinternetaccess.com
+!Mexico (MX VPN)
+mexico.privateinternetaccess.com
